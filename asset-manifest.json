@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/31github22/static/css/main.d71d9d5b.css",
+    "main.js": "/31github22/static/js/main.d82233f6.js",
+    "static/media/background.avif": "/31github22/static/media/background.418b0266d255853eea09.avif",
+    "index.html": "/31github22/index.html",
+    "main.d71d9d5b.css.map": "/31github22/static/css/main.d71d9d5b.css.map",
+    "main.d82233f6.js.map": "/31github22/static/js/main.d82233f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d71d9d5b.css",
+    "static/js/main.d82233f6.js"
+  ]
+}
